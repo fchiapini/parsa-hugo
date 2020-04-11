@@ -1,9 +1,9 @@
 ---
-title: Charming Evening Field
+title: 私達について
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: post
-image: images/masonary-post/post-12.jpg
+image: "/images/FACDEB7C-D352-4BB6-A3CE-5C4633DDCC1D.jpeg"
 categories:
 - Food
 tags:
