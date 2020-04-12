@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
-author = "Themefisher"
+author = "Yuka & Lipe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = ""
