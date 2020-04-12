@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2020-04-12T05:46:10+00:00
-description: This is meta description
+description: ''
 image: ''
 
 ---
