@@ -3,7 +3,7 @@ title: 私たちについて
 date: 2020-04-12T05:49:10+00:00
 description: ブログ主の私たちについて、紹介します。
 type: post
-image: "/images/FACDEB7C-D352-4BB6-A3CE-5C4633DDCC1D.jpeg"
+image: "/images/FBE38867-10DC-4D12-9326-36D370EDF8EF.jpeg"
 categories:
 - 'introduction '
 tags:
